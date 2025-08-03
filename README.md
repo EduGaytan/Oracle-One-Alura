@@ -57,4 +57,4 @@ A continuación se describe cómo funciona paso a paso:
 ## 🌐 Acceso al Proyecto
 
 Próximamente disponible en GitHub Pages.  
-🔗 [https://github.com/EduGaytan/Oracle-One-Alura](https://EduGaytan.github.io/sorteador-amigos)
+🔗 [https://github.com/EduGaytan/Oracle-One-Alura](https://edugaytan.github.io/OracleOne-Alura_Challenge-AmigoSecreto/)
